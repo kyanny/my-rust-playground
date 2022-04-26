@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let n : i8 = 127;
+    println!("n=[{}]", n);
 }
