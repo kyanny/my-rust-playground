@@ -19,4 +19,8 @@ fn main() {
 
     let remainder = 43 % 5;
     println!("remainder: {}", remainder);
+
+    let t = true;
+    let f: bool = false;
+    println!("t={} f={}", t, f);
 }
