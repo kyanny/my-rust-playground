@@ -28,4 +28,7 @@ fn main() {
     let z = 'Z';
     let heart_eyed_cat = '😻';
     println!("c={} z={} heart_eyed_cat={}", c, z, heart_eyed_cat);
+
+    // stop here: https://doc.rust-jp.rs/book-ja/ch03-02-data-types.html
+    // next: 複合型
 }
