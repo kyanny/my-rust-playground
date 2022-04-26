@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    let guess = "42".parse().expect("Not a number!");
 }
