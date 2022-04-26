@@ -8,4 +8,7 @@ fn main() {
     println!("spaces=[{}]", spaces);
     let spaces = spaces.len();
     println!("spaces=[{}]", spaces);
+
+    let mut spaces = "  ";
+    spaces = spaces.len();
 }
